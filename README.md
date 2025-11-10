@@ -81,9 +81,9 @@ cd src/fase-08-testes-dubles && dotnet run && cd ../..
 ````
 cd src/fase-09-cheiros-antidotos && dotnet run && cd ../..
 ````
-Decisões de Design por Fase:
+# # Decisões de Design por Fase:
 
-Fase 1 - Procedural
+# Fase 1 - Procedural
 Contrato: Função FormatText com parâmetro mode
 
 Implementações: Switch expression com casos para "upper", "lower", "title"
@@ -92,7 +92,7 @@ Problema identificado: Alto acoplamento, violação do OCP (aberto/fechado)
 
 Sinal de alerta: Switch que cresce com cada novo formato
 
-Fase 2 - OO sem Interface
+# Fase 2 - OO sem Interface
 Contrato: Classe abstrata TextFormatter com método Apply
 
 Implementações: UpperCaseFormatter, LowerCaseFormatter, TitleCaseFormatter
@@ -101,7 +101,7 @@ Melhoria: Eliminação do switch, uso de polimorfismo
 
 Problema persistente: Acoplamento à hierarquia de classes concretas
 
-Fase 3 - Com Interfaces
+# Fase 3 - Com Interfaces
 Contrato: Interface ITextFormatter com método Apply
 
 Implementações: Classes que implementam a interface
@@ -112,7 +112,7 @@ Inovação: Catálogo por chave (Dictionary) para seleção dinâmica
 
 Benefício: Testabilidade e extensibilidade
 
-Fase 4 - Repository InMemory
+# Fase 4 - Repository InMemory
 Contrato: Interface genérica IRepository<T>
 
 Implementação: InMemoryRepository<T> com List<T>
@@ -121,7 +121,7 @@ Padrão: Repository Pattern para abstrair persistência
 
 Benefício: Domínio isolado de detalhes de infraestrutura
 
-Fase 5 - Repository CSV
+# Fase 5 - Repository CSV
 Contrato: Mesmo IRepository<T> da fase anterior
 
 Implementação: CsvRepository<T> com persistência em arquivo
@@ -130,7 +130,7 @@ Demonstração: Cliente não muda ao alternar implementações
 
 Validação: Princípio de substituição de Liskov
 
-Fase 6 - Repository JSON
+# Fase 6 - Repository JSON
 Contrato: Mesmo IRepository<T> mantido
 
 Implementação: JsonRepository<T> com serialização JSON
@@ -139,7 +139,7 @@ Evolução: Formato mais rico sem quebrar contrato
 
 Ponto de composição: Troca centralizada sem afetar clientes
 
-Fase 7 - ISP na Prática
+# Fase 7 - ISP na Prática
 Problema: Interface "gorda" IRepositoryViolacaoISP<T> com muitas responsabilidades
 
 Antídoto: Segregação em IReadRepository<T>, IWriteRepository<T>, IUnitOfWork
@@ -148,7 +148,7 @@ Benefício: Clientes dependem apenas do que usam
 
 Aplicação: Princípio da Segregação de Interfaces (SOLID)
 
-Fase 8 - Testes com Dublês
+# Fase 8 - Testes com Dublês
 Contratos: IEmailService, ILogger
 
 Implementação real: SmtpEmailService para produção
@@ -159,7 +159,7 @@ Benefício: Testes rápidos, determinísticos e isolados
 
 Padrão: Injeção de dependência para testabilidade
 
-Fase 9 - Cheiros e Antídotos
+# Fase 9 - Cheiros e Antídotos
 Cheiro 1: Switch por tipo - Antídoto: Polimorfismo com interfaces
 
 Cheiro 2: Interface gorda - Antídoto: ISP e segregação
@@ -168,7 +168,7 @@ Cheiro 3: Dependência concreta - Antídoto: Inversão de dependência
 
 Metodologia: Identificação e refatoração sistemática
 
-Checklist de Qualidade Aplicado
+# Checklist de Qualidade Aplicado
 Contratos coesos: Interfaces focadas e específicas
 
 Alternância sem alterar cliente: BookService funciona com todas implementações de IRepository
@@ -187,9 +187,9 @@ Testabilidade: Injeção de dependência e dublês
 
 Evolução incremental: Mudanças focadas por fase
 
-Evidências de Qualidade
+# Evidências de Qualidade
 
-1. Compilação e Testes
+# 1. Compilação e Testes
 
 # Todos os projetos compilam
 ````
@@ -199,7 +199,7 @@ dotnet build
 ````
 dotnet test
 ````
-2. Alternância de Implementações
+# 2. Alternância de Implementações
 Mesmo código cliente funciona com:
 
 InMemoryRepository<Book> (Fase 4)
@@ -210,14 +210,14 @@ JsonRepository<Book> (Fase 6)
 
 Sem alterar uma linha do BookService
 
-3. Testabilidade Comprovada
+# 3. Testabilidade Comprovada
 Testes unitários com InMemoryRepository
 
 Dublês EmailServiceStub e LoggerMock
 
 Isolamento completo de dependências externas
 
-4. Princípios SOLID Aplicados
+# 4. Princípios SOLID Aplicados
 SRP: Classes com responsabilidade única
 
 OCP: Extensível sem modificar código existente
@@ -228,13 +228,13 @@ ISP: Interfaces segregadas (Fase 7)
 
 DIP: Dependência de abstrações
 
-Instruções de Execução Detalhadas
+# Instruções de Execução Detalhadas
 Pré-requisitos
 .NET 6.0 ou superior
 
-Git (para controle de versão)
+# Git (para controle de versão)
 
-Passo a passo:
+# Passo a passo:
 Clone o repositório (se aplicável)
 
 Navegue até a pasta do projeto:
@@ -253,9 +253,9 @@ Executar testes:
 ````
 dotnet test
 ````
-Executar fases individualmente (ver seção "Como Executar")
+# Executar fases individualmente (ver seção "Como Executar")
 
-Comandos Úteis
+# # Comandos Úteis
 # Ver todos os projetos na solução
 ````
 dotnet sln list
@@ -268,17 +268,6 @@ cd src/fase-03-com-interfaces && dotnet run
 ````
 cd ../..
 ````
-Histórico de Evolução
-
-Fase	Abordagem	Tecnologia	Benefício
-1	Procedural	Switch	Simplicidade
-2	OO	Herança	Organização
-3	Interfaces	Contratos	Flexibilidade
-4-6	Repository	InMemory/CSV/JSON	Persistência abstraída
-7	ISP	Segregação	Coesão
-8	Testes	Dublês	Qualidade
-9	Refatoração	Antídotos	Manutenibilidade
-
-Conclusão
+# # Conclusão
 
 Este trabalho demonstra uma evolução completa desde abordagens procedural até arquiteturas modernas baseadas em interfaces, aplicando princípios SOLID, padrões de design e boas práticas de testabilidade. Cada fase introduz conceitos progressivamente, consolidando o aprendizado através de exemplos práticos e refatorações conscientes.
