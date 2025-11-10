@@ -39,39 +39,50 @@ repo-interfaces/
 ### Compilar toda a solução:
 ```bash
 dotnet build
-
+````
 Executar testes:
+````
 dotnet test
-
+````
 Executar fase específica:
 # Fase 1
+```
 cd src/fase-01-procedural && dotnet run && cd ../..
-
+````
 # Fase 2  
+````
 cd src/fase-02-oo-sem-interface && dotnet run && cd ../..
-
+````
 # Fase 3
+````
 cd src/fase-03-com-interfaces && dotnet run && cd ../..
-
+````
 # Fase 4
+````
 cd src/fase-04-repository-inmemory && dotnet run && cd ../..
-
+````
 # Fase 5
+````
 cd src/fase-05-repository-csv && dotnet run && cd ../..
-
+````
 # Fase 6
+````
 cd src/fase-06-repository-json && dotnet run && cd ../..
-
+````
 # Fase 7
+````
 cd src/fase-07-isp && dotnet run && cd ../..
-
+````
 # Fase 8
+````
 cd src/fase-08-testes-dubles && dotnet run && cd ../..
-
+````
 # Fase 9
+````
 cd src/fase-09-cheiros-antidotos && dotnet run && cd ../..
+````
+Decisões de Design por Fase:
 
-Decisões de Design por Fase
 Fase 1 - Procedural
 Contrato: Função FormatText com parâmetro mode
 
@@ -181,11 +192,13 @@ Evidências de Qualidade
 1. Compilação e Testes
 
 # Todos os projetos compilam
+````
 dotnet build
-
+````
 # Testes executam sem I/O real
+````
 dotnet test
-
+````
 2. Alternância de Implementações
 Mesmo código cliente funciona com:
 
@@ -225,29 +238,36 @@ Passo a passo:
 Clone o repositório (se aplicável)
 
 Navegue até a pasta do projeto:
+````
 cd repo-interfaces
-
+````
 Restaurar dependências:
+````
 dotnet restore
-
+````
 Compilar solução:
+````
 dotnet build
-
+````
 Executar testes:
+````
 dotnet test
-
+````
 Executar fases individualmente (ver seção "Como Executar")
 
 Comandos Úteis
 # Ver todos os projetos na solução
+````
 dotnet sln list
-
+````
 # Executar fase específica
+````
 cd src/fase-03-com-interfaces && dotnet run
-
+````
 # Voltar para raiz
+````
 cd ../..
-
+````
 Histórico de Evolução
 
 Fase	Abordagem	Tecnologia	Benefício
