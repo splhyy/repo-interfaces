@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "fase-08-testes-dubles/1.0.0": {
+        "runtime": {
+          "fase-08-testes-dubles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fase-08-testes-dubles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

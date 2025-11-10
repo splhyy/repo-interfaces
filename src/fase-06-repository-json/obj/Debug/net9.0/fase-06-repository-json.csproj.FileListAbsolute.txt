@@ -12,3 +12,4 @@ C:\Users\shael\repo-interfaces\src\fase-06-repository-json\obj\Debug\net9.0\refi
 C:\Users\shael\repo-interfaces\src\fase-06-repository-json\obj\Debug\net9.0\fase-06-repository-json.pdb
 C:\Users\shael\repo-interfaces\src\fase-06-repository-json\obj\Debug\net9.0\fase-06-repository-json.genruntimeconfig.cache
 C:\Users\shael\repo-interfaces\src\fase-06-repository-json\obj\Debug\net9.0\ref\fase-06-repository-json.dll
+C:\Users\shael\repo-interfaces\src\fase-06-repository-json\obj\Debug\net9.0\fase-06-repository-json.sourcelink.json

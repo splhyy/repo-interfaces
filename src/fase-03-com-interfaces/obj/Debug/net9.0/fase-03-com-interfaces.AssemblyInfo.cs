@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fase-03-com-interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4881bdcde6af1bbf6ae8beee9728519fc3df31b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("fase-03-com-interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fase-03-com-interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

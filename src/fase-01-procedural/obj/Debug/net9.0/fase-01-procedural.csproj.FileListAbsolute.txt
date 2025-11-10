@@ -12,3 +12,4 @@ C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\refint\fa
 C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.pdb
 C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.genruntimeconfig.cache
 C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\ref\fase-01-procedural.dll
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.sourcelink.json

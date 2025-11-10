@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "fase-03-com-interfaces/1.0.0": {
+        "runtime": {
+          "fase-03-com-interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fase-03-com-interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

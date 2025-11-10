@@ -1,0 +1,15 @@
+C:\Users\shael\repo-interfaces\src\fase-07-isp\bin\Debug\net9.0\fase-07-isp.exe
+C:\Users\shael\repo-interfaces\src\fase-07-isp\bin\Debug\net9.0\fase-07-isp.deps.json
+C:\Users\shael\repo-interfaces\src\fase-07-isp\bin\Debug\net9.0\fase-07-isp.runtimeconfig.json
+C:\Users\shael\repo-interfaces\src\fase-07-isp\bin\Debug\net9.0\fase-07-isp.dll
+C:\Users\shael\repo-interfaces\src\fase-07-isp\bin\Debug\net9.0\fase-07-isp.pdb
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\fase-07-isp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\fase-07-isp.AssemblyInfoInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\fase-07-isp.AssemblyInfo.cs
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\fase-07-isp.csproj.CoreCompileInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\fase-07-isp.sourcelink.json
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\fase-07-isp.dll
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\refint\fase-07-isp.dll
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\fase-07-isp.pdb
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\fase-07-isp.genruntimeconfig.cache
+C:\Users\shael\repo-interfaces\src\fase-07-isp\obj\Debug\net9.0\ref\fase-07-isp.dll

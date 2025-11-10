@@ -1,0 +1,15 @@
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\bin\Debug\net9.0\fase-09-cheiros-antidotos.exe
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\bin\Debug\net9.0\fase-09-cheiros-antidotos.deps.json
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\bin\Debug\net9.0\fase-09-cheiros-antidotos.runtimeconfig.json
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\bin\Debug\net9.0\fase-09-cheiros-antidotos.dll
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\bin\Debug\net9.0\fase-09-cheiros-antidotos.pdb
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\fase-09-cheiros-antidotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\fase-09-cheiros-antidotos.AssemblyInfoInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\fase-09-cheiros-antidotos.AssemblyInfo.cs
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\fase-09-cheiros-antidotos.csproj.CoreCompileInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\fase-09-cheiros-antidotos.sourcelink.json
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\fase-09-cheiros-antidotos.dll
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\refint\fase-09-cheiros-antidotos.dll
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\fase-09-cheiros-antidotos.pdb
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\fase-09-cheiros-antidotos.genruntimeconfig.cache
+C:\Users\shael\repo-interfaces\src\fase-09-cheiros-antidotos\obj\Debug\net9.0\ref\fase-09-cheiros-antidotos.dll

@@ -1,0 +1,15 @@
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\bin\Debug\net9.0\fase-08-testes-dubles.exe
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\bin\Debug\net9.0\fase-08-testes-dubles.deps.json
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\bin\Debug\net9.0\fase-08-testes-dubles.runtimeconfig.json
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\bin\Debug\net9.0\fase-08-testes-dubles.dll
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\bin\Debug\net9.0\fase-08-testes-dubles.pdb
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\fase-08-testes-dubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\fase-08-testes-dubles.AssemblyInfoInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\fase-08-testes-dubles.AssemblyInfo.cs
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\fase-08-testes-dubles.csproj.CoreCompileInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\fase-08-testes-dubles.sourcelink.json
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\fase-08-testes-dubles.dll
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\refint\fase-08-testes-dubles.dll
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\fase-08-testes-dubles.pdb
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\fase-08-testes-dubles.genruntimeconfig.cache
+C:\Users\shael\repo-interfaces\src\fase-08-testes-dubles\obj\Debug\net9.0\ref\fase-08-testes-dubles.dll

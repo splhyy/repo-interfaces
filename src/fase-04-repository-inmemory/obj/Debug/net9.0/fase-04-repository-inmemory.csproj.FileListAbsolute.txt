@@ -12,3 +12,4 @@ C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\
 C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.pdb
 C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.genruntimeconfig.cache
 C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\ref\fase-04-repository-inmemory.dll
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\ref
 C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.pdb
 C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.genruntimeconfig.cache
 C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\ref\fase-02-oo-sem-interface.dll
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.sourcelink.json
