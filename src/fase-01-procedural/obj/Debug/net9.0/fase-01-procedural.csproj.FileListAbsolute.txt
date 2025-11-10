@@ -1,0 +1,14 @@
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\bin\Debug\net9.0\fase-01-procedural.exe
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\bin\Debug\net9.0\fase-01-procedural.deps.json
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\bin\Debug\net9.0\fase-01-procedural.runtimeconfig.json
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\bin\Debug\net9.0\fase-01-procedural.dll
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\bin\Debug\net9.0\fase-01-procedural.pdb
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.AssemblyInfoInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.AssemblyInfo.cs
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.csproj.CoreCompileInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.dll
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\refint\fase-01-procedural.dll
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.pdb
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\fase-01-procedural.genruntimeconfig.cache
+C:\Users\shael\repo-interfaces\src\fase-01-procedural\obj\Debug\net9.0\ref\fase-01-procedural.dll

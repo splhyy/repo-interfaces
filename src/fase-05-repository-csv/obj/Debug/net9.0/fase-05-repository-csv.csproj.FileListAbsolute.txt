@@ -1,0 +1,14 @@
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\bin\Debug\net9.0\fase-05-repository-csv.exe
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\bin\Debug\net9.0\fase-05-repository-csv.deps.json
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\bin\Debug\net9.0\fase-05-repository-csv.runtimeconfig.json
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\bin\Debug\net9.0\fase-05-repository-csv.dll
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\bin\Debug\net9.0\fase-05-repository-csv.pdb
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\obj\Debug\net9.0\fase-05-repository-csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\obj\Debug\net9.0\fase-05-repository-csv.AssemblyInfoInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\obj\Debug\net9.0\fase-05-repository-csv.AssemblyInfo.cs
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\obj\Debug\net9.0\fase-05-repository-csv.csproj.CoreCompileInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\obj\Debug\net9.0\fase-05-repository-csv.dll
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\obj\Debug\net9.0\refint\fase-05-repository-csv.dll
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\obj\Debug\net9.0\fase-05-repository-csv.pdb
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\obj\Debug\net9.0\fase-05-repository-csv.genruntimeconfig.cache
+C:\Users\shael\repo-interfaces\src\fase-05-repository-csv\obj\Debug\net9.0\ref\fase-05-repository-csv.dll

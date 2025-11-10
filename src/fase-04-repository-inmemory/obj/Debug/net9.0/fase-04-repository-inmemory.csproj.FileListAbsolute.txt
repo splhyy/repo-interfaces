@@ -1,0 +1,14 @@
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\bin\Debug\net9.0\fase-04-repository-inmemory.exe
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\bin\Debug\net9.0\fase-04-repository-inmemory.deps.json
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\bin\Debug\net9.0\fase-04-repository-inmemory.runtimeconfig.json
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\bin\Debug\net9.0\fase-04-repository-inmemory.dll
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\bin\Debug\net9.0\fase-04-repository-inmemory.pdb
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.AssemblyInfoInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.AssemblyInfo.cs
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.csproj.CoreCompileInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.dll
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\refint\fase-04-repository-inmemory.dll
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.pdb
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\fase-04-repository-inmemory.genruntimeconfig.cache
+C:\Users\shael\repo-interfaces\src\fase-04-repository-inmemory\obj\Debug\net9.0\ref\fase-04-repository-inmemory.dll

@@ -1,0 +1,14 @@
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\bin\Debug\net9.0\fase-02-oo-sem-interface.exe
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\bin\Debug\net9.0\fase-02-oo-sem-interface.deps.json
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\bin\Debug\net9.0\fase-02-oo-sem-interface.runtimeconfig.json
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\bin\Debug\net9.0\fase-02-oo-sem-interface.dll
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\bin\Debug\net9.0\fase-02-oo-sem-interface.pdb
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.AssemblyInfoInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.AssemblyInfo.cs
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.csproj.CoreCompileInputs.cache
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.dll
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\refint\fase-02-oo-sem-interface.dll
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.pdb
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\fase-02-oo-sem-interface.genruntimeconfig.cache
+C:\Users\shael\repo-interfaces\src\fase-02-oo-sem-interface\obj\Debug\net9.0\ref\fase-02-oo-sem-interface.dll
