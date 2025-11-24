@@ -4,7 +4,7 @@
 - Shara Palharini Lima
 
 ## Estrutura do Projeto:
-
+````
 repo-interfaces/
 ├── README.md
 ├── InterfacesSolution.sln
@@ -20,7 +20,7 @@ repo-interfaces/
 │ └── fase-09-cheiros-antidotos/
 └── tests/
 └── InterfacesTests/
-
+````
 
 ## Sumário de Fases
 
